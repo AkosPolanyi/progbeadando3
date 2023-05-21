@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1682923503 source:c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\widgetpelda\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+
+1618178770 c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\widgetpelda\include\graphics.hpp
+	<string>
+	<vector>
+
+1521398035 c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\widgetpelda\widgets.hpp
+	"graphics.hpp"
+
+1521397116 c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\widgetpelda\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1521397520 source:c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\widgetpelda\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1521396868 source:c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\widgetpelda\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1684677187 source:c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\awoa\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1684676289 c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\awoa\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1618178770 c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\awoa\include\graphics.hpp
+	<string>
+	<vector>
+
+1521398035 c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\awoa\widgets.hpp
+	"graphics.hpp"
+
+1684673601 source:c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\awoa\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+
+1521396868 source:c:\users\Ákos\documents\iskola\egyetem\prog\2. felev\awoa\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
